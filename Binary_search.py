@@ -13,8 +13,6 @@ def BinarySearch(list_search, number):
             mid = int((height-low)/2)+low
     return False
 
-d = [1,5,6,7,8,9,10,11,12,13,19,21,24]
-
 
 
 
